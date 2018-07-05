@@ -1,0 +1,48 @@
+body {
+    background-image: url("/assets/img/burger-back.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container-fluid {
+    margin-top: 40px;
+}
+
+li {
+    list-style: none
+}
+
+.btn-lg {
+    margin: 12px;
+    width: 80%
+}
+
+h2 {
+    font-size: 40px !important;
+    text-align: center;
+    color: white !important;
+    font-family: 'Shrikhand', cursive !important;
+}
+
+.text-footer {
+    position: fixed;
+    bottom: 20px;
+    width: 100%
+}
+
+.input-group {
+    display: -webkit-box !important;
+    margin-right: 72px;
+}
+
+.class-alt {
+    height: 46px !important;
+}
+
+button[type=submit] {
+    font-size: 24px;
+    background-color: #067715;
+    color: white
+}
